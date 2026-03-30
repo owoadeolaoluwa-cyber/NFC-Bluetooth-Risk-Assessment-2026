@@ -22,6 +22,10 @@ NFC is generally more secure due to its short communication range, while Bluetoo
 ### Bluetooth Example
 ![Bluetooth](bluetooth.png)
 
+### Image Example
+![image](image.png)
+
+
 ## Project Repository
 
 You can find the complete project on GitHub:
